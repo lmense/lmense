@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi my name is Laurence Mense
+Im currently 24 years old and based in Cologne. I hope to do a lot more on GitHub and have projects that can provide value.
+- currently studying Data & Information Science at [TH Köln](https://www.th-koeln.de)
+- im really interested in electric vehicles and electric components
+- *just to do it* `Hello`
 
 <!--
 **lavmen61/lavmen61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
